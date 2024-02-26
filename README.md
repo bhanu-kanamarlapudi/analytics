@@ -1,2 +1,2 @@
-# analytics
-Crypto analytics
+# Analytics Projects
+Crypto Analytics and IT Budget analysis
