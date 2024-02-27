@@ -1,2 +1,2 @@
 # Analytics Projects
-Crypto Analytics 
+Crypto Analytics of Bitcoin and ETH
